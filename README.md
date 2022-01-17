@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shady</h1>
 <h3 align="center">An aspiring Full Stack Developer based out of Toronto, Canada</h3>
 
-- 🔭 I’m currently working at [Apotex Inc.](https://www.apotex.com/global) , largest Canadian-owned pharmaceutical company 
+- 🔭 I’m currently working at [Apotex Inc.](https://www.apotex.com/global) , the largest Canadian-owned pharmaceutical company 
 
 - 👨‍💻 All of my projects are available at [https://github.com/shadysol](https://github.com/shadysol)
 
